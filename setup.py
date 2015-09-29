@@ -28,6 +28,6 @@ See https://github.com/idank/bashlex/blob/master/README.md for more info.''',
         'Topic :: System :: System Shells',
         'Topic :: Text Processing',
     ],
-    install_requires=['enum34'],
+    install_requires=[],
     packages=['bashlex'],
 )
